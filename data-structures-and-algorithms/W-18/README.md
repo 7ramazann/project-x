@@ -9,14 +9,13 @@
 ---
 
 ## **Minimal** 
-* 🔴 [LC] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
-* 🔴 [LC] [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
-* 🔴 [LC] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-* 🔴 [LC] [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
-* 🔴 [Informatics] [Грузчики](https://informatics.msk.ru/mod/statements/view.php?id=1966&chapterid=490#1)
+* 🔴 [LC] [Two Sum II – Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+* 🔴 [LC] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+* 🔴 [LC] [String Compression](https://leetcode.com/problems/string-compression/)
+* 🔴 [LC] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
 ## **Recommended**  
-* 🔴 [LC] [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)
+* 🔴 [LC] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 
 ---
 
