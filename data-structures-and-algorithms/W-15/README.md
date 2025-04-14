@@ -20,5 +20,4 @@
 
 ### Notes:
 - All assigned problems completed this week
-- Particularly enjoyed the Floyd's Cycle detection algorithm problems
-- Sliding Window Maximum was challenging but rewarding to solve optimally
+
