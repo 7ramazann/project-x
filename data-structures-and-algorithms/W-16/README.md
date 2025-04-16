@@ -13,7 +13,7 @@
 * 🟢 [LC] Group Anagrams
 * 🟢 [LC] Longest Consecutive Sequence
 * 🟢 [LC] Subarray Sum Equals k
-* 🟡 [LC] Top k Frequent Elements 
+* 🟢 [LC] Top k Frequent Elements 
 
 ---
 
