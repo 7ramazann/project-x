@@ -12,7 +12,7 @@
 * 🟢 [LC] Two Sum
 * 🟢 [LC] Group Anagrams
 * 🟢 [LC] Longest Consecutive Sequence
-* 🟡 [LC] Subarray Sum Equals k
+* 🟢 [LC] Subarray Sum Equals k
 * 🟡 [LC] Top k Frequent Elements 
 
 ---
