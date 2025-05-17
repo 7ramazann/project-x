@@ -16,7 +16,7 @@
 * 🔴 [Informatics] [Грузчики](https://informatics.msk.ru/mod/statements/view.php?id=1966&chapterid=490#1)
 
 ## **Recommended**  
-* 🔴 [LC] [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)
+* 🟢 [LC] [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)
 
 ---
 
