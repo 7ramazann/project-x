@@ -14,7 +14,7 @@
 * 🔴 [Informatics] [Рекурсивные функции](https://informatics.msk.ru/mod/statements/view.php?id=2550#1)
 * 🔴 [Informatics] [Перестановки](https://informatics.msk.ru/mod/statements/view.php?id=268&chapterid=1414#1)
 * 🟢 [LC] [Permutations](https://leetcode.com/problems/permutations/)
-* 🔴 [LC] [Combinations](https://leetcode.com/problems/combinations/)
+* 🟢 [LC] [Combinations](https://leetcode.com/problems/combinations/)
 
 ---
 
